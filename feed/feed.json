@@ -1,0 +1,19 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Programming languages",
+  "home_page_url": "https://oscarcarpu.github.io/JsonRss/",
+  "feed_url": "https://oscarcarpu.github.io/JsonRss/feed/feed.json",
+  "items": [
+  {
+  "id": "2",
+  "content_text": "This is python.",
+  "url": "https://oscarcarpu.github.io/JsonRss/python.html"
+  },
+  {
+  "id": "1",
+  "content_html": "<p>Hello, java!</p>",
+  "url": "https://oscarcarpu.github.io/JsonRss/java.html"
+  }
+  ]
+ }
+ 
