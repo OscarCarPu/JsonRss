@@ -11,7 +11,7 @@
   },
   {
   "id": "1",
-  "content_html": "<p>Hello, java!</p>",
+  "content_text": "Hello, java!",
   "url": "https://oscarcarpu.github.io/JsonRss/java.html"
   }
   ]
